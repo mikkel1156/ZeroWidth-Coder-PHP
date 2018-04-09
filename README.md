@@ -1,4 +1,4 @@
-# ZeroWidth Coder PHP
+# Zero-Width Coder PHP
 A PHP module to encode/decode text into zero-width characters which will result in them being *"invisible"*.
 
 ## Usage example
