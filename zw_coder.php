@@ -70,7 +70,7 @@ class zw_coder {
 
     //  Decode a secret.
     function decode($secret) {
-        //  Varaible for the bianry of the secret.
+        //  Variable for the bianry of the secret.
         $secBin = "";
 
         //  Get all matches for the four zero-width characters.
